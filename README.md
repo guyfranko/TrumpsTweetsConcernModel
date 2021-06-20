@@ -1,4 +1,4 @@
-# EXPLAIN
+# Trump's Tweets Concern Model
 
 During first spread of Covid19 the level of concern in the US increased, but at a different pace and at a different level between each political group. The purpose of the model is to examine the relationship between Trump's tweets and the degree of concern in the United States, to which i have performed the following steps:
 
